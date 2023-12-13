@@ -123,7 +123,7 @@ class _RegisterState extends State<Register> {
                                     margin: const EdgeInsets.only(bottom: 5),
                                     child: const ImageIcon(
                                       AssetImage(
-                                          "assets/images/icons/img_icons/user.png"),
+                                          "assets/icons/img_icons/user.png"),
                                       color: Colors.grey,
                                     ),
                                   ),
@@ -186,7 +186,7 @@ class _RegisterState extends State<Register> {
                                     margin: const EdgeInsets.only(bottom: 2),
                                     child: const ImageIcon(
                                       AssetImage(
-                                          "assets/images/icons/img_icons/email.png"),
+                                          "assets/icons/img_icons/email.png"),
                                       color: Colors.grey,
                                     ),
                                   ),
@@ -253,7 +253,7 @@ class _RegisterState extends State<Register> {
                                     margin: const EdgeInsets.only(bottom: 5),
                                     child: const ImageIcon(
                                       AssetImage(
-                                          "assets/images/icons/img_icons/padlock.png"),
+                                          "assets/icons/img_icons/padlock.png"),
                                     ),
                                   ),
                                   suffixIcon: IconButton(
@@ -269,8 +269,8 @@ class _RegisterState extends State<Register> {
                                       ),
                                       child: SvgPicture.asset(
                                         _obscureText
-                                            ? 'assets/images/icons/svg_icons/eye-show-svgrepo-com.svg'
-                                            : 'assets/images/icons/svg_icons/eye-hide-svgrepo-com.svg',
+                                            ? 'assets/icons/svg_icons/eye-show-svgrepo-com.svg'
+                                            : 'assets/icons/svg_icons/eye-hide-svgrepo-com.svg',
                                       ),
                                     ),
                                   ),
@@ -335,7 +335,7 @@ class _RegisterState extends State<Register> {
                                     margin: const EdgeInsets.only(bottom: 5),
                                     child: const ImageIcon(
                                       AssetImage(
-                                          "assets/images/icons/img_icons/padlock.png"),
+                                          "assets/icons/img_icons/padlock.png"),
                                     ),
                                   ),
                                   suffixIcon: IconButton(
@@ -351,8 +351,8 @@ class _RegisterState extends State<Register> {
                                       ),
                                       child: SvgPicture.asset(
                                         _obscureText
-                                            ? 'assets/images/icons/svg_icons/eye-show-svgrepo-com.svg'
-                                            : 'assets/images/icons/svg_icons/eye-hide-svgrepo-com.svg',
+                                            ? 'assets/icons/svg_icons/eye-show-svgrepo-com.svg'
+                                            : 'assets/icons/svg_icons/eye-hide-svgrepo-com.svg',
                                       ),
                                     ),
                                   ),
